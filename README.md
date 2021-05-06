@@ -1,4 +1,4 @@
-# SwearTrekGifCommand_Python
+# SwearTrek
 
 I made a Discord bot for my friends and I.  Calling up Swear Trek gifs is one part of it that I pulled out and made it's own repo.
 
