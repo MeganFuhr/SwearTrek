@@ -10,6 +10,9 @@ Type /st to pull the slash command in Discord after adding your own bot.
 ## Getting Started
 
 - [ ] Clone the repo
+- [ ] Create a bot in Discord.com/Developers
+- [ ] Add bots and applications.commands to permissions
+- [ ] Copy the token
 - [ ] At the root, create a file called .env
   - [ ] add the lines: <br>
      - [ ] GIPHY_API=Your_API_Token <br>
