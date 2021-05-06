@@ -11,7 +11,8 @@ Type /st to pull the slash command in Discord after adding your own bot.
 
 - [ ] Clone the repo
 - [ ] Create a bot in Discord.com/Developers
-- [ ] Add bots and applications.commands to permissions
+- [ ] Add a bot to your account
+- [ ] Add bot and applications.commands to permissions under OAuth
 - [ ] Copy the token
 - [ ] At the root, create a file called .env
   - [ ] add the lines: <br>
