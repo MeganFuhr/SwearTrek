@@ -20,15 +20,6 @@ params = {
 client = commands.Bot(command_prefix='!')
 slash = SlashCommand(client , sync_commands=True)
 
-options = [
-    {
-        "name" : "query",
-        "description" : "query description",
-        "required" : False,
-        "type" : 4
-    }
-]
-
 @client.event
 async def on_ready():
     print("Bot is logged in as {0.user}".format(client))
