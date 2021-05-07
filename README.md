@@ -5,6 +5,8 @@ I made a Discord bot for my friends and I.  Calling up Swear Trek gifs is one pa
 I love Star Trek and Swear Trek, so I wanted to be able to call up a random Swear Trek gif on demand.
 
 Type /st to pull the slash command in Discord after adding your own bot.
+<br>
+<img src="gif.png" alt="SwearTrek Image" width="400" height="300">
 
 
 ## Getting Started
