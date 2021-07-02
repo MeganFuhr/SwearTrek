@@ -17,6 +17,13 @@ params = {
     "limit": "1"
     }
 
+genericOptions = [{
+    "name": "Swear Trek",
+    "description": "Return random Swear Trek gif.",
+    "options": [
+    ]
+}]
+
 client = commands.Bot(command_prefix='!')
 slash = SlashCommand(client , sync_commands=True)
 
